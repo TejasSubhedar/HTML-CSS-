@@ -1,4 +1,5 @@
 
+
 .container-fluid{
 	margin: 0;
 	padding: 0;
@@ -46,7 +47,7 @@
   text-align: center;
   color: #ff4532;
   font-size: 50px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Helvetica Neue1", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 
@@ -82,7 +83,7 @@ li{
 	height: auto;
 	color: black;
 	background-color: rgba(0,0,0,0.2);
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding: 20px;
 }
 
